@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<servlet>
+		<servlet-name>InstaAction</servlet-name>
+		<servlet-class>InstaAction</servlet-class>
+	</servlet>
+		
+	<servlet-mapping>
+		<servlet-name>InstaAction</servlet-name>
+		<url-pattern>/InstaAction</url-pattern>
+	</servlet-mapping>
+</web-app>
